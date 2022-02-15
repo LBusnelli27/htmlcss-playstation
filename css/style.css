@@ -15,9 +15,28 @@
     height: 20px;
 }
 
+.my-font-nav {
+    font-family: Helvetica, sans-serif;
+}
+
 
 
 /* JUMBO */
 .my-bg-jumbo {
     background-image: url(../img/jumbo-bg.png);
+    padding-top: 300px;
+    padding-bottom: 60px;
+}
+
+.my-returnal-jumbo {
+    width: 250px;
+}
+
+
+
+/* MEDIA queries */
+@media screen and (max-width: 992px) {
+    .my-returnal-jumbo {
+        width: 80%;
+    }
 }
