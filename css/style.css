@@ -9,6 +9,10 @@
     padding: 3rem 0;
 }
 
+.my-bg-gray {
+    background-color: #333333;
+}
+
 
 
 /* HEADER */
@@ -24,9 +28,19 @@
 
 /* JUMBO */
 .my-bg-jumbo {
-    background-image: url(../img/jumbo-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+
+.my-bg-returnal {
+    background-image: url(../img/jumbo-bg.png);
+}
+
+.my-bg-it-takes-two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+.my-pt-jumbo {
     padding-top: 300px;
 }
 
