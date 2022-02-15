@@ -3,11 +3,21 @@
     font-family: Arial, sans-serif;
 }
 
+.my-width-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+/* HEADER */
 .my-sony-logo-header {
     height: 20px;
 }
 
-.my-width-container {
-    width: 90%;
-    margin: 0 auto;
+
+
+/* JUMBO */
+.my-bg-jumbo {
+    background-image: url(../img/jumbo-bg.png);
 }
