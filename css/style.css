@@ -6,3 +6,8 @@
 .my-sony-logo-header {
     height: 25px;
 }
+
+.my-width-container {
+    width: 90%;
+    margin: 0 auto;
+}
