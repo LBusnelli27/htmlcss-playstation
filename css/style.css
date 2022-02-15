@@ -6,6 +6,7 @@
 .my-width-container {
     width: 90%;
     margin: 0 auto;
+    padding: 3rem 0;
 }
 
 
@@ -24,12 +25,27 @@
 /* JUMBO */
 .my-bg-jumbo {
     background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     padding-top: 300px;
-    padding-bottom: 60px;
 }
 
 .my-returnal-jumbo {
     width: 250px;
+}
+
+
+.my-rounded-img {
+    border-radius: 1rem;
+}
+
+.my-p {
+    font-size: 1.3rem;
+    color: #646464;
+}
+
+#btn-more-info {
+    width: 200px;
 }
 
 
