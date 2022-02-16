@@ -62,6 +62,10 @@
     width: 220px;
 }
 
+.my-opacity-product {
+    opacity: 0.7;
+}
+
 /* Bg playstation plus section */
 .my-bg-play-plus {
     background-color: #bebcbb;
@@ -71,6 +75,7 @@
     background-color: #cccbcb;
 }
 
+/* Bg playstation now section */
 .my-bg-play-now {
     background-color: #161c3b;
 }
@@ -86,6 +91,29 @@ footer ul {
 
 .my-sie-logo {
     width: 25%;
+}
+
+
+/* :hover */
+.my-hover-scale:hover {
+    transform: scale(1.06);
+    transition: all 0.2s ease-in-out;
+}
+
+.my-hover-opacity:hover {
+    opacity: 1;
+    transition: all 0.15s ease-in-out;
+}
+
+.my-hover-allb:hover {
+    border: 2px solid #0070d1;
+    transition: all 0.15s ease-in-out;
+    padding: 3px;
+}
+
+.my-hover-bb:hover {
+    border-bottom: 3px solid #0070d1;
+    transition: all 0.15s ease-in-out;
 }
 
 
