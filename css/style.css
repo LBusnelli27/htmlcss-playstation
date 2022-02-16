@@ -112,7 +112,7 @@ footer ul {
 }
 
 .my-hover-bb:hover {
-    border-bottom: 3px solid #0070d1;
+    border-bottom: 2px solid #0070d1;
     transition: all 0.15s ease-in-out;
 }
 
