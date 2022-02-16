@@ -75,6 +75,19 @@
     background-color: #161c3b;
 }
 
+/* Footer */
+.my-bg-color-footer {
+    background-color: #0070d1;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.my-sie-logo {
+    width: 25%;
+}
+
 
 
 /* MEDIA queries */
