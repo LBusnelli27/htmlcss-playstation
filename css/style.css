@@ -45,7 +45,7 @@
 }
 
 .my-returnal-jumbo {
-    width: 250px;
+    width: 60%;
 }
 
 
@@ -58,8 +58,17 @@
     color: #646464;
 }
 
-#btn-more-info {
-    width: 200px;
+.my-btn-width {
+    width: 220px;
+}
+
+/* Bg playstation plus section */
+.my-bg-play-plus {
+    background-color: #bebcbb;
+}
+
+.my-btn-plus {
+    background-color: #cccbcb;
 }
 
 
