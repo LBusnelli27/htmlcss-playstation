@@ -100,6 +100,11 @@ footer ul {
     transition: all 0.2s ease-in-out;
 }
 
+.my-hover-up:hover {
+    transform: translateY(-25px);
+    transition: all 0.2s ease-in-out;
+}
+
 .my-hover-opacity:hover {
     opacity: 1;
     transition: all 0.15s ease-in-out;
