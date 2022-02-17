@@ -9,10 +9,6 @@
     padding: 3rem 0;
 }
 
-.my-bg-gray {
-    background-color: #333333;
-}
-
 
 
 /* HEADER */
@@ -66,6 +62,10 @@
     opacity: 0.7;
 }
 
+/* Bg gray */
+.my-bg-gray {
+    background-color: #333333;
+}
 /* Bg playstation plus section */
 .my-bg-play-plus {
     background-color: #bebcbb;
@@ -80,6 +80,8 @@
     background-color: #161c3b;
 }
 
+
+
 /* Footer */
 .my-bg-color-footer {
     background-color: #0070d1;
@@ -92,6 +94,7 @@ footer ul {
 .my-sie-logo {
     width: 25%;
 }
+
 
 
 /* :hover */
@@ -108,12 +111,6 @@ footer ul {
 .my-hover-opacity:hover {
     opacity: 1;
     transition: all 0.15s ease-in-out;
-}
-
-.my-hover-allb:hover {
-    border: 2px solid #0070d1;
-    transition: all 0.15s ease-in-out;
-    padding: 3px;
 }
 
 .my-bb-nav {
