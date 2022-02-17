@@ -3,6 +3,7 @@
     font-family: Arial, sans-serif;
 }
 
+/* Set standard width for containers */
 .my-width-container {
     width: 90%;
     margin: 0 auto;
@@ -16,18 +17,20 @@
     height: 20px;
 }
 
+/* Font for nav */
 .my-font-nav {
     font-family: Helvetica, sans-serif;
 }
 
 
 
-/* JUMBO */
+/* MAIN */
 .my-bg-jumbo {
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+/* Set image for jumbos */
 .my-bg-returnal {
     background-image: url(../img/jumbo-bg.png);
 }
@@ -36,14 +39,15 @@
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
 
+/* Padding for jumbo */
 .my-pt-jumbo {
     padding-top: 300px;
 }
 
+/* Set for jumbo image */
 .my-returnal-jumbo {
     width: 60%;
 }
-
 
 .my-rounded-img {
     border-radius: 1rem;
@@ -58,6 +62,7 @@
     width: 220px;
 }
 
+/* Set opacity */
 .my-opacity-product {
     opacity: 0.7;
 }
@@ -82,7 +87,7 @@
 
 
 
-/* Footer */
+/* FOOTER */
 .my-bg-color-footer {
     background-color: #0070d1;
 }
@@ -91,6 +96,7 @@ footer ul {
     list-style: none;
 }
 
+/* Logo in footer */
 .my-sie-logo {
     width: 25%;
 }
