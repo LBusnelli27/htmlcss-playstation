@@ -27,6 +27,7 @@
 /* MAIN */
 .my-bg-jumbo {
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 
@@ -44,9 +45,9 @@
     padding-top: 300px;
 }
 
-/* Set for jumbo image */
-.my-returnal-jumbo {
-    width: 60%;
+/* Set for jumbo game title image */
+.my-img-title-jumbo {
+    width: 50%;
 }
 
 .my-rounded-img {
@@ -133,13 +134,4 @@ footer ul {
 .my-hover-bb:hover {
     border-bottom: 2px solid #0070d1;
     transition: all 0.15s ease-in-out;
-}
-
-
-
-/* MEDIA queries */
-@media screen and (max-width: 992px) {
-    .my-returnal-jumbo {
-        width: 80%;
-    }
 }
